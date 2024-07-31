@@ -1,74 +1,62 @@
-body
-{
-    background-color: #bebfc2;
-    margin: 15px 15px;
+body{
+    background-color: silver;
+    margin: 40px;
+    color: white;
+    font-family: Arial, Verdana, sans-serif;
+
+}
+h1{
+    background-color: #ffffff;
+    color:#64645A ;
     padding: 15px;
 }
-.text-white
-{
-    color: white;
+p{
+    padding: 5px;
+    margin: 0px;
 }
-.bg-white
-{
-    background-color: white;
+.fourteen{
+    background-color: rgb(0,136,221);
 }
-.div-two
-{
-background-color: #2793d1;
+.thirteen{
+    background-color:rgb(0,149,226) ;
+
 }
-.div-three
-{
-background-color: #249ed8;
+.twelve{
+    background-color:rgb(0,160,230) ;
 }
-.div-four
-{
-background-color: #35a8df;
+.eleven{
+    background-color:rgb(48,170,233) ;
 }
-.div-five
-{
-background-color: #58b6e7;
+.ten{
+    background-color:rgb(84,182,237) ;
 }
-.div-six
-{
-background-color: #6fc0ec;
+.nine{
+    background-color:rgb(114,193,240); ;
 }
-.div-seven
-{
-background-color: #6fc0ec;
+.eight{
+    background-color: rgb(140,202,242);
 }
-.div-eight
-{
-background-color: #1bb584;
+.seven{
+    background-color:rgb(0,187,136) ;
 }
-.div-nine
-{
-background-color: #f5aecd;
+.six{
+    background-color:rgb(245,176,204) ;
 }
-.div-ten
-{
-background-color: #f49cc1;
+.five{
+    background-color:rgb(246,159,192) ;
 }
-.div-eleven
-{
-background-color: #f28cb4;
+.four{
+    background-color: rgb(245,140,178);
 }
-.div-twelve
-{
-background-color: #f179a6;
+.three{
+    background-color:rgb(244,123,166) ;
 }
-.div-thirteen
-{
-background-color: #f16a97;
+.two{
+    background-color:rgb(243,106,152) ;
 }
-.div-forteen
-{
-background-color: #f0568a;
+.one{
+    background-color:rgb(244,90,139) ;
 }
-.div-fifteen
-{
-background-color: #ee397f;
-}
-.div-one 
-{
-    background-color: #3185c6;
+.zero{
+    background-color:rgb(238,62,128) ;
 }
